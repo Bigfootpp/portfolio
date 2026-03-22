@@ -146,7 +146,7 @@ body::after {
   padding: 0.5rem 1rem;
   font-size: 0.85rem;
   font-weight: 400;
-  color: var(--text-dim);
+ color: #888;
   transition: color 0.2s;
   position: relative;
 }
@@ -1003,3 +1003,4 @@ footer p::before {
     font-size: 2rem;
   }
 }
+
